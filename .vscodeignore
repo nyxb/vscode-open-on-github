@@ -1,11 +1,5 @@
-**/*.map
-.gitignore
-.vscode-test/**
-.vscode/**
-out/test/**
-resources/*.gif
-resources/*.psd
-src/**
-test/**
-tsconfig.json
-webpack.config.js
+src
+node_modules
+test
+.github
+.vscode
